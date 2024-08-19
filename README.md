@@ -52,7 +52,7 @@ Please kindly cite our paper if you use our code, data, models or results:
 ```bibtex
 @inproceedings{zhang2024tvg,
         title = {TVG: A Training-free Transition Video Generation Method with Diffusion Models},
-        author = {Rui Zhang and Chen Yaosen and Yuegen Liu and  Wei Wang and Xuming Wen and  Hongxia Wang},
+        author = {Rui Zhang and Yaosen Chen and Yuegen Liu and  Wei Wang and Xuming Wen and  Hongxia Wang},
         year = {2024},
         booktitle = {arxiv}
 }
